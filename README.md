@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![video](https://github.com/lyakusik/lyakusik/assets/95689991/0b03823b-1e6b-4a5c-9ccc-6845c2247235)
+![video]([https://github.com/lyakusik/lyakusik/assets/95689991/0b03823b-1e6b-4a5c-9ccc-6845c2247235](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif))
 
 
 
